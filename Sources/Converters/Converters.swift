@@ -2,6 +2,8 @@ import Foundation
 
 public struct Converters {
     
+    public init() {}
+    
     func convertNZDtoUSD(nzd: String) -> String {
         let usdRate = 0.59
         let nzdValue = Double(nzd) ?? 0
