@@ -1,3 +1,3 @@
 # Converters
 
-A description of this package.
+This package provides NZD to USD currency convertion.
